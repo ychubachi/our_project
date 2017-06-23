@@ -1,2 +1,2 @@
-Nobita # our_project
+# our_project SHIZUKA　& Nobita
 Git演習用
